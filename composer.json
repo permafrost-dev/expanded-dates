@@ -1,0 +1,41 @@
+{
+    "name": "permafrost-dev/expanded-dates",
+    "description": "Expands a date from a single format to multiple formats",
+    "keywords": [
+        "permafrost",
+        "dates"
+    ],
+    "homepage": "https://github.com/permafrost-dev/expanded-dates",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Trick",
+            "email": "trick.developer@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.1",
+        "nesbot/carbon": "^2.22"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Permafrost\\ExpandedDates\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Permafrost\\ExpandedDates\\Tests\\": "tests"
+        }
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit",
+        "test-coverage": "phpunit --coverage-html coverage"
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
