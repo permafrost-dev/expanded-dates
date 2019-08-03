@@ -5,3 +5,4 @@ vendor
 coverage
 *.cache
 phpunit.xml
+.phpunit.result.cache
