@@ -19,6 +19,7 @@
         "nesbot/carbon": "^2.22"
     },
     "require-dev": {
+        "nunomaduro/phpinsights": "dev-master",
         "phpunit/phpunit": "^8.0"
     },
     "autoload": {
