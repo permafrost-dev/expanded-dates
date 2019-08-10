@@ -153,9 +153,3 @@ class DateExpander
         return $this->createExpandedDateObject($date);
     }
 }
-/*
-include __DIR__.'/../vendor/autoload.php';
-//$de = new DateExpander();
-//$ed1 = $de->expand(Carbon::now()->subSeconds(35));
-$ed1 = ExpandedDate::create(Carbon::now()->subSeconds(35));
-print_r($ed1);*/
