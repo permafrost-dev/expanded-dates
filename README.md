@@ -1,7 +1,7 @@
 # Expanded Dates
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/permafrost-dev/expanded-packages.svg?style=flat-square)](https://packagist.org/packages/permafrost-dev/expanded-packages)
-[![Build Status](https://img.shields.io/travis/permafrost-dev/expanded-packages/master.svg?style=flat-square)](https://travis-ci.org/permafrost-dev/expanded-packages)
+[![Build Status](https://travis-ci.org/permafrost-dev/expanded-dates.svg?branch=master)](https://travis-ci.org/permafrost-dev/expanded-packages)
 [![Quality Score](https://img.shields.io/scrutinizer/g/permafrost-dev/expanded-packages.svg?style=flat-square)](https://scrutinizer-ci.com/g/permafrost-dev/expanded-packages)
 [![Total Downloads](https://img.shields.io/packagist/dt/permafrost-dev/expanded-packages.svg?style=flat-square)](https://packagist.org/packages/permafrost-dev/expanded-packages)
 
